@@ -4,7 +4,7 @@ I'm a Neuroscience Master Student at Philipps University Marburg.
 
 Currently I am working on modeling the flies neural circuit for orientational cognition.
 
-I am interested in dynamical systems as artificial model for biological cognition and potential alternative to current AI models.
+I am interested in dynamical systems as artificial model of biological cognition and potential alternative to current AI models.
 
 <!--
 **DominikM12/DominikM12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
